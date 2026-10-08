@@ -6,4 +6,4 @@ lucky_movers.db
 lucky_movers.db-shm
 lucky_movers.db-wal
 *.log
-.DS_Store
+.DS_Storefrontend/public/*.jpg
